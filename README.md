@@ -5,7 +5,7 @@
 [
 ![Instagram Account](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ](www.instagram.com/jocrod1)
-### I'm a Software Engineer currently living in Valencia, España.
+### I'm a Software Engineer currently living in Valencia, Spain.
 
  - 👾I love hackathons such as Game Jams, i've participated on GGJ and Ludum Dare Jams.
  - 🔭 I'm currently working as a Fullstack & Mobile Developer.
